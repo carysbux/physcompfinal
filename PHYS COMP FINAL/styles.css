@@ -1,0 +1,29 @@
+body {
+
+    background-color: lightskyblue;
+    color: white;
+
+    font-family: 'Silkscreen', serif;
+    padding-bottom: 10%;
+}
+
+img{
+
+    height: 500px;
+    left: 50%;
+    top: 50%;
+   
+}
+
+
+video {
+
+    height: 640px;
+    
+}
+
+#code {
+
+    border-style: solid ;
+    border-color: blue;
+}
